@@ -62,7 +62,7 @@ Next, create a new repository on GitLab. It is *not* necessary to make the repos
 git init
 
 # add /public directory to our .gitignore file
-echo "/public" >> .gitignore
+echo "public" >> .gitignore
 
 # commit and push code to master branch
 git add .
